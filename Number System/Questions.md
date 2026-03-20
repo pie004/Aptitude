@@ -1,5 +1,3 @@
-Here are the questions transcribed from the images you provided:
-
 1. The sum of 2 numbers is 36 and their product is 248. What will be the sum of their reciprocals?
 2. In a poultry farm having hens and pigs, Rohan can see 84 heads and 282 legs. How many hens are there?
 3. Summation of 5 consecutive numbers is found out to be 335. If we add the largest and smallest number what will we get?
@@ -13,4 +11,3 @@ Here are the questions transcribed from the images you provided:
 11. 280 oranges are divided among some boys and girls whose total number is 50 so that each boy gets 5 oranges and each girl get 7 oranges. The number of girls is?
 
 ---
-Would you like me to solve any of these specific problems for you?
